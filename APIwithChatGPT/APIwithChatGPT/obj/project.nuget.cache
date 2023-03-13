@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ZwptZ5uUmj5haaEGPB+HQ7AO/6zWkhEUNOq/dkAXsujNI2jJ8LGu3PRb4vbUdLaPxlbPXWmsVlEpKnKpUzH3YQ==",
+  "dgSpecHash": "O6ynT5m+n5Lq2Ha2p4YwUGp75CkE1P64r5cWUgZpvgGAHh2IPJJa1z86qPDdV640IuatuqWlCuD4DGlc/MXxGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lisandra.gomes.SETRANSP\\Videos\\Projetos no GIT\\APIwithChatGPT\\APIwithChatGPT\\APIwithChatGPT.csproj",
+  "projectFilePath": "C:\\Users\\Lisandra\\Documents\\0-git\\APIwithChatGPT\\APIwithChatGPT\\APIwithChatGPT\\APIwithChatGPT.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\lisandra.gomes.SETRANSP\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\lisandra.gomes.SETRANSP\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\lisandra.gomes.SETRANSP\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\lisandra.gomes.SETRANSP\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\lisandra.gomes.SETRANSP\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\lisandra.gomes.SETRANSP\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\Lisandra\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Lisandra\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Lisandra\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Lisandra\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Lisandra\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Lisandra\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
   ],
   "logs": []
 }
